@@ -1,5 +1,5 @@
 # Rectifing the Bias of Classifiers
-Jupyter notebook on the how majority bias can effect different classifiers and methods of reducing bias.
+Jupyter notebook on how majority bias can affect different classifiers and methods of reducing bias.
 Included are two notebooks, the first investiagtes the effect of bias, and different strategeis to rectify the bias. The second notebook looks into rectify the bias with pipeline strategies, and then into feature selection.
 
 ## Bias of Classifiers
